@@ -11,3 +11,5 @@ else if (minAge>maxAge){
 else {
     console.log("You can't drive a car, you should ride a bike instead!")
 }
+
+/*correction: faire apparaître les messages qui demandent l'âge après avoir vérififé que l'entrée maxage > minage.*/

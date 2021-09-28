@@ -14,4 +14,7 @@ for (let elem of a) {
     bSum = parseInt(bSum) + parseInt(elem);
   }
 
-let
+let  aAvg = (aSum/al);
+let bAvg = (bSum/bl);
+
+console.log("the average value for a is "+ aAvg + " \nThe average value for b is "+bAvg)

@@ -4,3 +4,5 @@ while (i!=42) {
      i = readlineSync.question("What is your favorite number? ");
      i;
 }
+
+/*aussi possible de la faire avec do while */
