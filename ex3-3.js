@@ -11,3 +11,5 @@ a.forEach((item => {b.push(item);}));
 console.log("contenu de b");
 
 b.forEach((item => {console.log(item);}));
+
+//ont peut aussi le faire avec un spread operator (...) ou on peut faire array.map() qui crée un nouvel array.

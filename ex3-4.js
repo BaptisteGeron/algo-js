@@ -8,3 +8,5 @@ a.forEach((item => {
     else if (item<aMin) {aMin = item;}
 }));
 console.log("valeur max: " + aMax + ("\nValeur min: ") + aMin);
+
+//plus simple console.log(Math.min(...array)) ou on peut aussi faire un .sort (mais atttention la façon dont ce sera trié)

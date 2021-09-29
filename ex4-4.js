@@ -46,38 +46,3 @@ function max(arr) {
 console.log("Max:" + max(arr));
 
 
-
-
-
-
-
-
-
-
-/*
-a.forEach((item => {
-    if (item>aMax){aMax = item;}
-    else if (aMin==0) { aMin = item;}
-    else if (item<aMin) {aMin = item;}
-}));
-console.log("valeur max: " + aMax + ("\nValeur min: ") + aMin);
-
-for (let elem of a) {
-  aSum = parseInt(aSum) + parseInt(elem);
-}
-let  aAvg = (aSum/al);
-console.log("the average value for a is "+ aAvg);
-
-*/
-
-/*function average(x) {
-    let l=x.lenght;
-    let arrSum = 0;
-    x.forEach ((item => {
-        arrSum = arrSum + x;
-      }));
-    let arravg = arrSum/l;
-    return arravg;
-}
-
-console.log(average(a));*/
